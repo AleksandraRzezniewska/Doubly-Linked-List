@@ -1,0 +1,7 @@
+C:\Users\orzez\Source\Repos\BidirectionalList\BidirectionalList\obj\Debug\BidirectionalList.csprojAssemblyReference.cache
+C:\Users\orzez\Source\Repos\BidirectionalList\BidirectionalList\obj\Debug\BidirectionalList.csproj.CoreCompileInputs.cache
+C:\Users\orzez\Source\Repos\BidirectionalList\BidirectionalList\bin\Debug\BidirectionalList.exe.config
+C:\Users\orzez\Source\Repos\BidirectionalList\BidirectionalList\bin\Debug\BidirectionalList.exe
+C:\Users\orzez\Source\Repos\BidirectionalList\BidirectionalList\bin\Debug\BidirectionalList.pdb
+C:\Users\orzez\Source\Repos\BidirectionalList\BidirectionalList\obj\Debug\BidirectionalList.exe
+C:\Users\orzez\Source\Repos\BidirectionalList\BidirectionalList\obj\Debug\BidirectionalList.pdb
